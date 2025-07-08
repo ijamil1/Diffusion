@@ -1,1 +1,1 @@
-read me
+Learning about diffusion models
